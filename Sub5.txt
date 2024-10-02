@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
+hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#ℹ️7@oneclickvpnkeys
+hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-34.92.152.163:11451
+hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#%E5%B7%B4%E8%A5%BF%40oneclickvpnkeys
 hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#巴西@oneclickvpnkeys
 hy2://maniubi@129.148.33.28:60800?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-129.148.33.28:60800
 hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -599,7 +603,3 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 
 .
 
-.
-#profile-title: base64:SGlOIE1pbmVyIPCfq6c=
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
