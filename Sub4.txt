@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443?insecure=1&obfs=salamander&obfs-password=2c5ef5135559d4f5&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B8%F0%9F%87%AA%20SE%20147.45.76.99%20%E2%97%88%20udp:443%20%E2%97%88%20Aeza%20International%20%E2%97%88%208fd3a
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🔒 HYSTERIA-UDP 🇳🇱 NL-[2a12:5940:42c5::2]:443
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443?insecure=1&sni=google.com&obfs=salamander&obfs-password=2c5ef5135559d4f5#🔒 HYSTERIA-UDP 🇳🇱 NL-[2a12:5940:42c5::2]:443
+hy2://cih$phu-rlMofru7i4r9@hys6.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=cih%24phu-rlMofru7i4r9#irancpi_hys6
+hy2://d2e21fabfe6ddb83@70.34.205.24:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#🔒 HYSTERIA-UDP 🇸🇪 SE-70.34.205.24:443
+hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
+hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
+hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@ELiV2Ray-@ELiV2Ray?sni=speedtest.realityforus.com#de-mtn-@ELiV2Ray
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒 HYSTERIA-UDP 🇩🇪 DE-45.142.113.238:40443
 hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒 HYSTERIA-UDP 🇫🇷 FR-173.199.70.234:443
@@ -595,11 +603,3 @@ tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?
                         .st15{fill:#091218;}
                         .st16{fill:#1B2934;}
                         .st17{fill:#E16C5F;}
-                        .st18{clip-path:url(#XMLID_4_);fill:#231C61;}
-                        .st19{fill:#F5D100;}
-                        .st20{fill:none;stroke:#F1AB00;stroke-width:0.2802;stroke-miterlimit:10;}
-                        .st21{fill:none;stroke:#FFFFFF;stroke-width:1.1206;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-                        .st22{fill:none;stroke:#106797;stroke-width:2.1624;stroke-miterlimit:10;}
-                        .st23{fill:none;stroke:#FFFFFF;stroke-width:1.1138;stroke-miterlimit:10;}
-                        .st24{fill:#106797;}
-                        .st25{fill:#0F5A7C;}
