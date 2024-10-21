@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                        .st25{fill:#0F5A7C;}
-                        .st26{fill:none;stroke:#106797;stroke-width:2.6489;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-                    </style>
-                    <g id="BACKGROUND">
                         <rect class="st0" width="500" height="500"/>
                     </g>
                     <g id="OBJECTS">
@@ -603,3 +599,7 @@
                             </g>
                         </g>
                     </g>
+                    </svg>
+            </div>
+            <p class="text">Either the domain has been overused, or the reseller ran out of resources.</p>
+        </div>
