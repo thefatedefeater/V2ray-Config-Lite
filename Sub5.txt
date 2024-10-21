@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                        .st4{fill:#FDFDFF;}
+                        .st5{fill:#BFBFBF;}
                         .st6{opacity:0.16;fill:#C1E9F4;}
                         .st7{clip-path:url(#XMLID_3_);fill:#FFFFFF;}
                         .st8{fill:#14103D;}
@@ -601,5 +603,3 @@
                                             </g>
                                         </g>
                                     </g>
-                                    <g>
-                                        <g>
