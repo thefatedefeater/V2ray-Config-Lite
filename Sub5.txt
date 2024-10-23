@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                                            <use xlink:href="#XMLID_2_"  style="overflow:visible;"/>
-                                        </clipPath>
-                                        <path class="st18" d="M172.9,199.5c0,0-1,4.8,2.6,5c3.6,0.1,1.6-9.1,1.6-9.1l-5.6-5.7l-8.6,2.1l0.9,5.6c0,0,1.4,0.7,8.8-0.5
-                                            L172.9,199.5z"/>
                                         <polygon class="st18" points="169.4,195.7 172.2,199.8 174.6,197.1 					"/>
                                     </g>
                                     
@@ -578,7 +574,7 @@
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-02-ABAN-1403 🕑 08:49
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-02-ABAN-1403 🕑 09:11
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -588,7 +584,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-02-ABAN-1403 🕑 08:45
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-02-ABAN-1403 🕑 09:51
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
@@ -603,3 +599,7 @@ vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?flow=&host=6.V2.c.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&type=ws#@V2rayMiner
