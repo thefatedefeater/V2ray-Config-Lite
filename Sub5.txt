@@ -3,12 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-#support-url: https://github.com/coldwater-10/V2ray-Configs
-#profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
 
 tuic://72b15e67-6ae5-42ba-9518-2258d5bb300f:cc5ce5f8e279f9ee@77.91.77.27:39299?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2C%20spdy%2F3.1&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-77.91.77.27:39299
-tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2C%20spdy%2F3.1&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-77.221.158.52:8922
 tuic://a223d4ab-2355-46e6-a455-e95ed843991a:ae8e511e0d7b5a49@77.91.77.187:38383?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2C%20spdy%2F3.1&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-77.91.77.187:38383
+tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2C%20spdy%2F3.1&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-77.221.158.52:8922
 tuic://d6214437-e1b5-4334-9090-8f66b78bea89:dongtaiwang@108.181.22.205:50987?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=telegramEUT-VPN.ddns.net&udp_relay-mode=native&udp_relay_mode=native&version=5#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?alpn=h3&congestion_control=bbr&congestion_controller=bbr&udp_relay-mode=native&udp_relay_mode=native&version=5#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 tuic://d6214437-e1b5-4334-9090-8f66b78bea89:dongtaiwang@108.181.22.205:50987?congestion_control=bbr&alpn=h3&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#%E2%9C%85%E2%9C%85%40VPNGate_Channel%E2%9C%85%E2%9C%85
@@ -298,7 +296,7 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-24-ABAN-1403 🕑 14:13
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-24-ABAN-1403 🕑 15:08
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -308,7 +306,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-24-ABAN-1403 🕑 14:42
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-24-ABAN-1403 🕑 16:01
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
@@ -603,3 +601,5 @@ ssr://MTgzLjI0MC4yMjAuODQ6MTE4MTQ6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI4OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl6TWclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4NDU6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qTXomcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4MTA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qTTAmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl6TlElM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl6TmclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
