@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                        </g>
                         <g>
                             <g>
                                 <path class="st3" d="M335.6,369.9l-180,0.1c-6.8,0-12.4-5.5-12.4-12.3l0,0l204.7-0.2l0,0C348,364.3,342.4,369.9,335.6,369.9z"/>
@@ -602,4 +603,3 @@
                         }
 
                         .ssst1 {
-                            fill: #34383C;
