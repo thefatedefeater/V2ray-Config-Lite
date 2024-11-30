@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.93.166:52200
-hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
-hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#ℹ️7@oneclickvpnkeys
-hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-34.92.152.163:11451
-hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#%E5%B7%B4%E8%A5%BF%40oneclickvpnkeys
-hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#巴西@oneclickvpnkeys
-hy2://maniubi@129.148.33.28:60800?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-129.148.33.28:60800
-hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hy2://maniubi@168.75.65.36:60800?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-168.75.65.36:60800
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🇦🇺AU%20|%20hy2%20|%20@TUICity%20|%203
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-170.64.183.54:33939
 hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#@Zede_filteri 🇳🇱
@@ -583,7 +573,7 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-10-AZAR-1403 🕑 07:01
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-10-AZAR-1403 🕑 07:54
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -593,7 +583,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-10-AZAR-1403 🕑 06:56
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-10-AZAR-1403 🕑 07:48
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
@@ -603,3 +593,13 @@ vless://d6545fce-02c9-4d1e-ae5d-e55d2f60d165@Arpc.MAshti.link:8880?flow=&host=15
 vless://f9ccbbd3-8c4e-49f2-9ce3-2db4950f37e8@www.speedtest.net:2095?flow=&host=Academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcadeMigroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D2048&type=ws#@V2rayMiner
 vless://8521242c-0a2e-495b-a0d7-ad44ddf45a0f@www.speedtest.net:80?flow=&host=0.v2.www.speedtest.net.g.debian.org.AcademiGroup.iR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN&type=httpupgrade#@V2rayMiner
 vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@www.speedtest.net:80?flow=&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&type=ws#@V2rayMiner
+vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@www.speedtest.net:80?flow=&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?flow=&host=6.V2.c.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&type=ws#@V2rayMiner
+vless://5b055534-a162-4ee0-a3b0-1a9f74c334f7@104.21.19.124:8880?flow=&host=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&type=httpupgrade#@V2rayMiner
