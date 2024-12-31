@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://c0b71f56-7237-4861-91df-7d8a45eb6c92@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.39ms
-vless://c0b71f56-7237-4861-91df-7d8a45eb6c92@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.44ms
-vless://bf01c992-2c50-47b9-9062-4fb6824f76ff@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-8443 | 6.14ms
-vless://be34c1d4-ef5d-47fb-885c-351e65ccd716@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-443 | 6.26ms
 vless://bd2914ed-69b1-4533-a7f0-929527541c35@172.67.66.177:80?path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed&security=none&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#RELAY🚩 | dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com-80 | 44.58ms
 vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.197.20:80?path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed&security=none&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#RELAY🚩 | dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com-80 | 6.4ms
 vless://b5e071d2-19bb-46b9-8f47-73707e70290c@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-8443 | 6.19ms
@@ -603,3 +599,7 @@ hy2://f5b598d8-234e-4142-b8e8-197c50b6c32c@176.32.35.198:8307?obfs=salamander&ob
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.57.42:443
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇩🇪 DE-5.39.252.182:3898
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a0b:4140:925f::2]:81?insecure=1#🔒 HYSTERIA-UDP 🇳🇱 NL-[2a0b:4140:925f::2]:81
+hy2://e169856c-7c19-4908-9bdf-448dc846163a@139.185.36.59:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇪 AE-139.185.36.59:443
+hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-195.58.49.173:33390
+hy2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com#🔒 HYSTERIA-UDP 🇩🇪 DE-156.67.30.77:48173
+hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.243.213:24749
