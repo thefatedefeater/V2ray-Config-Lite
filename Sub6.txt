@@ -450,8 +450,8 @@ tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?a
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYWM4MTk4OWItMTFmYy00MzRjLWI0ZTItMmNmOTAwMGM0MGJkIiwicGFnZV90aW1lIjoxNzM1NzM1MTEzLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuNTcuMTMuMjQyIn0K";</script>
-<script src="/bIsAXkfTA.js"></script>
+<script>window.park = "eyJ1dWlkIjoiMWI1MWUwODktNjI1Ny00NWFlLTgzMWUtNjQ3ZGE5NDExNjliIiwicGFnZV90aW1lIjoxNzM1NzM3NzkxLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTcyLjI4LjEzMCJ9Cg==";</script>
+<script src="/bWyvBTFbx.js"></script>
 </body>
 </html>
 
@@ -472,7 +472,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-12-DEY-1403 🕑 15:59
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-12-DEY-1403 🕑 16:28
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
