@@ -88,8 +88,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNDFmMmE3NmItYWU3NC00OGE5LWFmMzQtN2Y5ZWExZmNkYTcwIiwicGFnZV90aW1lIjoxNzM2NjA4NzQ4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuNTcuNzkuMTUyIn0K";</script>
-<script src="/bGZbDzdWV.js"></script>
+<script>window.park = "eyJ1dWlkIjoiY2ZjYWRhNGItZGEwOC00NmE2LWE1NGUtOGJhY2UxNWM3ODk0IiwicGFnZV90aW1lIjoxNzM2NjEyNTgwLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTY5LjE0LjM3In0K";</script>
+<script src="/boMGZqcrT.js"></script>
 </body>
 </html>
 
@@ -100,7 +100,7 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-22-DEY-1403 🕑 18:48
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-22-DEY-1403 🕑 19:52
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -110,7 +110,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-22-DEY-1403 🕑 18:43
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-22-DEY-1403 🕑 19:47
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
